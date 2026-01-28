@@ -1,0 +1,7 @@
+{
+  "notion_api_key": "your_notion_api_key_here",
+  "feishu_app_id": "your_feishu_app_id_here",
+  "feishu_app_secret": "your_feishu_app_secret_here",
+  "markdown_dir": "./markdown_files",
+  "mapping_file": "sync_mapping.json"
+}
